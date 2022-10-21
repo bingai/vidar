@@ -2,3 +2,8 @@
 	path = externals/camviz
 	# url = git@github.com:TRI-ML/camviz.git
 	url = https://github.com/TRI-ML/camviz.git
+
+# Then, under the parent repo ./vida, run the following commands:
+# git submodule sync
+# git submodule init
+# git submodule update
